@@ -1,0 +1,15 @@
+d:\GitHub\BS.NetCorePatikasi\C#101\Operators\bin\Debug\net8.0\Operators.exe
+D:\GitHub\BS.NetCorePatikasi\C#101\Operators\bin\Debug\net8.0\Operators.deps.json
+D:\GitHub\BS.NetCorePatikasi\C#101\Operators\bin\Debug\net8.0\Operators.runtimeconfig.json
+d:\GitHub\BS.NetCorePatikasi\C#101\Operators\bin\Debug\net8.0\Operators.dll
+d:\GitHub\BS.NetCorePatikasi\C#101\Operators\bin\Debug\net8.0\Operators.pdb
+d:\GitHub\BS.NetCorePatikasi\C#101\Operators\obj\Debug\net8.0\Operators.GeneratedMSBuildEditorConfig.editorconfig
+d:\GitHub\BS.NetCorePatikasi\C#101\Operators\obj\Debug\net8.0\Operators.AssemblyInfoInputs.cache
+d:\GitHub\BS.NetCorePatikasi\C#101\Operators\obj\Debug\net8.0\Operators.AssemblyInfo.cs
+d:\GitHub\BS.NetCorePatikasi\C#101\Operators\obj\Debug\net8.0\Operators.csproj.CoreCompileInputs.cache
+d:\GitHub\BS.NetCorePatikasi\C#101\Operators\obj\Debug\net8.0\Operators.sourcelink.json
+d:\GitHub\BS.NetCorePatikasi\C#101\Operators\obj\Debug\net8.0\Operators.dll
+d:\GitHub\BS.NetCorePatikasi\C#101\Operators\obj\Debug\net8.0\refint\Operators.dll
+d:\GitHub\BS.NetCorePatikasi\C#101\Operators\obj\Debug\net8.0\Operators.pdb
+D:\GitHub\BS.NetCorePatikasi\C#101\Operators\obj\Debug\net8.0\Operators.genruntimeconfig.cache
+D:\GitHub\BS.NetCorePatikasi\C#101\Operators\obj\Debug\net8.0\ref\Operators.dll

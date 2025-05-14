@@ -17,6 +17,7 @@ float f = 5; // 4 byte = 1.5 x 10^-45 to 3.4 x 10^38
 double d = 5; // 8 byte = 5.0 x 10^-324 to 1.7 x 10^308
 decimal de = 5;
 
+
 char c = 'A'; // 2 byte = 0 - 65535
 string str = "Hello World"; // 2 byte = 0 - 65535
 bool b1 = true; // 1 byte = 0 - 255 //true or false
