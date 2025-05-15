@@ -1,0 +1,15 @@
+d:\GitHub\BS.NetCorePatikasi\C#101\ExceptionsHandling\bin\Debug\net8.0\ExceptionsHandling.exe
+D:\GitHub\BS.NetCorePatikasi\C#101\ExceptionsHandling\bin\Debug\net8.0\ExceptionsHandling.deps.json
+D:\GitHub\BS.NetCorePatikasi\C#101\ExceptionsHandling\bin\Debug\net8.0\ExceptionsHandling.runtimeconfig.json
+d:\GitHub\BS.NetCorePatikasi\C#101\ExceptionsHandling\bin\Debug\net8.0\ExceptionsHandling.dll
+d:\GitHub\BS.NetCorePatikasi\C#101\ExceptionsHandling\bin\Debug\net8.0\ExceptionsHandling.pdb
+d:\GitHub\BS.NetCorePatikasi\C#101\ExceptionsHandling\obj\Debug\net8.0\ExceptionsHandling.GeneratedMSBuildEditorConfig.editorconfig
+d:\GitHub\BS.NetCorePatikasi\C#101\ExceptionsHandling\obj\Debug\net8.0\ExceptionsHandling.AssemblyInfoInputs.cache
+d:\GitHub\BS.NetCorePatikasi\C#101\ExceptionsHandling\obj\Debug\net8.0\ExceptionsHandling.AssemblyInfo.cs
+d:\GitHub\BS.NetCorePatikasi\C#101\ExceptionsHandling\obj\Debug\net8.0\ExceptionsHandling.csproj.CoreCompileInputs.cache
+d:\GitHub\BS.NetCorePatikasi\C#101\ExceptionsHandling\obj\Debug\net8.0\ExceptionsHandling.sourcelink.json
+d:\GitHub\BS.NetCorePatikasi\C#101\ExceptionsHandling\obj\Debug\net8.0\ExceptionsHandling.dll
+d:\GitHub\BS.NetCorePatikasi\C#101\ExceptionsHandling\obj\Debug\net8.0\refint\ExceptionsHandling.dll
+d:\GitHub\BS.NetCorePatikasi\C#101\ExceptionsHandling\obj\Debug\net8.0\ExceptionsHandling.pdb
+D:\GitHub\BS.NetCorePatikasi\C#101\ExceptionsHandling\obj\Debug\net8.0\ExceptionsHandling.genruntimeconfig.cache
+D:\GitHub\BS.NetCorePatikasi\C#101\ExceptionsHandling\obj\Debug\net8.0\ref\ExceptionsHandling.dll
