@@ -1,0 +1,15 @@
+d:\GitHub\BS.NetCorePatikasi\C#101\ForLoop_BreakContinue\bin\Debug\net8.0\ForLoop_BreakContinue.exe
+D:\GitHub\BS.NetCorePatikasi\C#101\ForLoop_BreakContinue\bin\Debug\net8.0\ForLoop_BreakContinue.deps.json
+D:\GitHub\BS.NetCorePatikasi\C#101\ForLoop_BreakContinue\bin\Debug\net8.0\ForLoop_BreakContinue.runtimeconfig.json
+d:\GitHub\BS.NetCorePatikasi\C#101\ForLoop_BreakContinue\bin\Debug\net8.0\ForLoop_BreakContinue.dll
+d:\GitHub\BS.NetCorePatikasi\C#101\ForLoop_BreakContinue\bin\Debug\net8.0\ForLoop_BreakContinue.pdb
+d:\GitHub\BS.NetCorePatikasi\C#101\ForLoop_BreakContinue\obj\Debug\net8.0\ForLoop_BreakContinue.GeneratedMSBuildEditorConfig.editorconfig
+d:\GitHub\BS.NetCorePatikasi\C#101\ForLoop_BreakContinue\obj\Debug\net8.0\ForLoop_BreakContinue.AssemblyInfoInputs.cache
+d:\GitHub\BS.NetCorePatikasi\C#101\ForLoop_BreakContinue\obj\Debug\net8.0\ForLoop_BreakContinue.AssemblyInfo.cs
+d:\GitHub\BS.NetCorePatikasi\C#101\ForLoop_BreakContinue\obj\Debug\net8.0\ForLoop_BreakContinue.csproj.CoreCompileInputs.cache
+d:\GitHub\BS.NetCorePatikasi\C#101\ForLoop_BreakContinue\obj\Debug\net8.0\ForLoop_BreakContinue.sourcelink.json
+d:\GitHub\BS.NetCorePatikasi\C#101\ForLoop_BreakContinue\obj\Debug\net8.0\ForLoop_BreakContinue.dll
+d:\GitHub\BS.NetCorePatikasi\C#101\ForLoop_BreakContinue\obj\Debug\net8.0\refint\ForLoop_BreakContinue.dll
+d:\GitHub\BS.NetCorePatikasi\C#101\ForLoop_BreakContinue\obj\Debug\net8.0\ForLoop_BreakContinue.pdb
+D:\GitHub\BS.NetCorePatikasi\C#101\ForLoop_BreakContinue\obj\Debug\net8.0\ForLoop_BreakContinue.genruntimeconfig.cache
+D:\GitHub\BS.NetCorePatikasi\C#101\ForLoop_BreakContinue\obj\Debug\net8.0\ref\ForLoop_BreakContinue.dll
