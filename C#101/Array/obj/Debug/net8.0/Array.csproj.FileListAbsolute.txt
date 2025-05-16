@@ -1,0 +1,15 @@
+d:\GitHub\BS.NetCorePatikasi\C#101\Array\bin\Debug\net8.0\Array.exe
+D:\GitHub\BS.NetCorePatikasi\C#101\Array\bin\Debug\net8.0\Array.deps.json
+D:\GitHub\BS.NetCorePatikasi\C#101\Array\bin\Debug\net8.0\Array.runtimeconfig.json
+d:\GitHub\BS.NetCorePatikasi\C#101\Array\bin\Debug\net8.0\Array.dll
+d:\GitHub\BS.NetCorePatikasi\C#101\Array\bin\Debug\net8.0\Array.pdb
+d:\GitHub\BS.NetCorePatikasi\C#101\Array\obj\Debug\net8.0\Array.GeneratedMSBuildEditorConfig.editorconfig
+d:\GitHub\BS.NetCorePatikasi\C#101\Array\obj\Debug\net8.0\Array.AssemblyInfoInputs.cache
+d:\GitHub\BS.NetCorePatikasi\C#101\Array\obj\Debug\net8.0\Array.AssemblyInfo.cs
+d:\GitHub\BS.NetCorePatikasi\C#101\Array\obj\Debug\net8.0\Array.csproj.CoreCompileInputs.cache
+d:\GitHub\BS.NetCorePatikasi\C#101\Array\obj\Debug\net8.0\Array.sourcelink.json
+d:\GitHub\BS.NetCorePatikasi\C#101\Array\obj\Debug\net8.0\Array.dll
+d:\GitHub\BS.NetCorePatikasi\C#101\Array\obj\Debug\net8.0\refint\Array.dll
+d:\GitHub\BS.NetCorePatikasi\C#101\Array\obj\Debug\net8.0\Array.pdb
+D:\GitHub\BS.NetCorePatikasi\C#101\Array\obj\Debug\net8.0\Array.genruntimeconfig.cache
+D:\GitHub\BS.NetCorePatikasi\C#101\Array\obj\Debug\net8.0\ref\Array.dll
