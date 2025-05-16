@@ -1,0 +1,15 @@
+d:\GitHub\BS.NetCorePatikasi\C#101\Switch-Case\bin\Debug\net8.0\Switch-Case.exe
+D:\GitHub\BS.NetCorePatikasi\C#101\Switch-Case\bin\Debug\net8.0\Switch-Case.deps.json
+D:\GitHub\BS.NetCorePatikasi\C#101\Switch-Case\bin\Debug\net8.0\Switch-Case.runtimeconfig.json
+d:\GitHub\BS.NetCorePatikasi\C#101\Switch-Case\bin\Debug\net8.0\Switch-Case.dll
+d:\GitHub\BS.NetCorePatikasi\C#101\Switch-Case\bin\Debug\net8.0\Switch-Case.pdb
+d:\GitHub\BS.NetCorePatikasi\C#101\Switch-Case\obj\Debug\net8.0\Switch-Case.GeneratedMSBuildEditorConfig.editorconfig
+d:\GitHub\BS.NetCorePatikasi\C#101\Switch-Case\obj\Debug\net8.0\Switch-Case.AssemblyInfoInputs.cache
+d:\GitHub\BS.NetCorePatikasi\C#101\Switch-Case\obj\Debug\net8.0\Switch-Case.AssemblyInfo.cs
+d:\GitHub\BS.NetCorePatikasi\C#101\Switch-Case\obj\Debug\net8.0\Switch-Case.csproj.CoreCompileInputs.cache
+d:\GitHub\BS.NetCorePatikasi\C#101\Switch-Case\obj\Debug\net8.0\Switch-Case.sourcelink.json
+d:\GitHub\BS.NetCorePatikasi\C#101\Switch-Case\obj\Debug\net8.0\Switch-Case.dll
+d:\GitHub\BS.NetCorePatikasi\C#101\Switch-Case\obj\Debug\net8.0\refint\Switch-Case.dll
+d:\GitHub\BS.NetCorePatikasi\C#101\Switch-Case\obj\Debug\net8.0\Switch-Case.pdb
+D:\GitHub\BS.NetCorePatikasi\C#101\Switch-Case\obj\Debug\net8.0\Switch-Case.genruntimeconfig.cache
+D:\GitHub\BS.NetCorePatikasi\C#101\Switch-Case\obj\Debug\net8.0\ref\Switch-Case.dll
