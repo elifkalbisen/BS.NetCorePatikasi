@@ -1,0 +1,15 @@
+d:\GitHub\BS.NetCorePatikasi\C#101\If-ElseIf-Ternary-If\bin\Debug\net8.0\If-ElseIf-Ternary-If.exe
+D:\GitHub\BS.NetCorePatikasi\C#101\If-ElseIf-Ternary-If\bin\Debug\net8.0\If-ElseIf-Ternary-If.deps.json
+D:\GitHub\BS.NetCorePatikasi\C#101\If-ElseIf-Ternary-If\bin\Debug\net8.0\If-ElseIf-Ternary-If.runtimeconfig.json
+d:\GitHub\BS.NetCorePatikasi\C#101\If-ElseIf-Ternary-If\bin\Debug\net8.0\If-ElseIf-Ternary-If.dll
+d:\GitHub\BS.NetCorePatikasi\C#101\If-ElseIf-Ternary-If\bin\Debug\net8.0\If-ElseIf-Ternary-If.pdb
+d:\GitHub\BS.NetCorePatikasi\C#101\If-ElseIf-Ternary-If\obj\Debug\net8.0\If-ElseIf-Ternary-If.GeneratedMSBuildEditorConfig.editorconfig
+d:\GitHub\BS.NetCorePatikasi\C#101\If-ElseIf-Ternary-If\obj\Debug\net8.0\If-ElseIf-Ternary-If.AssemblyInfoInputs.cache
+d:\GitHub\BS.NetCorePatikasi\C#101\If-ElseIf-Ternary-If\obj\Debug\net8.0\If-ElseIf-Ternary-If.AssemblyInfo.cs
+d:\GitHub\BS.NetCorePatikasi\C#101\If-ElseIf-Ternary-If\obj\Debug\net8.0\If-ElseIf-Ternary-If.csproj.CoreCompileInputs.cache
+d:\GitHub\BS.NetCorePatikasi\C#101\If-ElseIf-Ternary-If\obj\Debug\net8.0\If-ElseIf-Ternary-If.sourcelink.json
+d:\GitHub\BS.NetCorePatikasi\C#101\If-ElseIf-Ternary-If\obj\Debug\net8.0\If-ElseIf-Ternary-If.dll
+d:\GitHub\BS.NetCorePatikasi\C#101\If-ElseIf-Ternary-If\obj\Debug\net8.0\refint\If-ElseIf-Ternary-If.dll
+d:\GitHub\BS.NetCorePatikasi\C#101\If-ElseIf-Ternary-If\obj\Debug\net8.0\If-ElseIf-Ternary-If.pdb
+D:\GitHub\BS.NetCorePatikasi\C#101\If-ElseIf-Ternary-If\obj\Debug\net8.0\If-ElseIf-Ternary-If.genruntimeconfig.cache
+D:\GitHub\BS.NetCorePatikasi\C#101\If-ElseIf-Ternary-If\obj\Debug\net8.0\ref\If-ElseIf-Ternary-If.dll
