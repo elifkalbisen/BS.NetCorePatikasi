@@ -1,0 +1,15 @@
+d:\GitHub\BS.NetCorePatikasi\C#101\ArrayMethod\bin\Debug\net8.0\ArrayMethod.exe
+D:\GitHub\BS.NetCorePatikasi\C#101\ArrayMethod\bin\Debug\net8.0\ArrayMethod.deps.json
+D:\GitHub\BS.NetCorePatikasi\C#101\ArrayMethod\bin\Debug\net8.0\ArrayMethod.runtimeconfig.json
+d:\GitHub\BS.NetCorePatikasi\C#101\ArrayMethod\bin\Debug\net8.0\ArrayMethod.dll
+d:\GitHub\BS.NetCorePatikasi\C#101\ArrayMethod\bin\Debug\net8.0\ArrayMethod.pdb
+d:\GitHub\BS.NetCorePatikasi\C#101\ArrayMethod\obj\Debug\net8.0\ArrayMethod.GeneratedMSBuildEditorConfig.editorconfig
+d:\GitHub\BS.NetCorePatikasi\C#101\ArrayMethod\obj\Debug\net8.0\ArrayMethod.AssemblyInfoInputs.cache
+d:\GitHub\BS.NetCorePatikasi\C#101\ArrayMethod\obj\Debug\net8.0\ArrayMethod.AssemblyInfo.cs
+d:\GitHub\BS.NetCorePatikasi\C#101\ArrayMethod\obj\Debug\net8.0\ArrayMethod.csproj.CoreCompileInputs.cache
+d:\GitHub\BS.NetCorePatikasi\C#101\ArrayMethod\obj\Debug\net8.0\ArrayMethod.sourcelink.json
+d:\GitHub\BS.NetCorePatikasi\C#101\ArrayMethod\obj\Debug\net8.0\ArrayMethod.dll
+d:\GitHub\BS.NetCorePatikasi\C#101\ArrayMethod\obj\Debug\net8.0\refint\ArrayMethod.dll
+d:\GitHub\BS.NetCorePatikasi\C#101\ArrayMethod\obj\Debug\net8.0\ArrayMethod.pdb
+D:\GitHub\BS.NetCorePatikasi\C#101\ArrayMethod\obj\Debug\net8.0\ArrayMethod.genruntimeconfig.cache
+D:\GitHub\BS.NetCorePatikasi\C#101\ArrayMethod\obj\Debug\net8.0\ref\ArrayMethod.dll
