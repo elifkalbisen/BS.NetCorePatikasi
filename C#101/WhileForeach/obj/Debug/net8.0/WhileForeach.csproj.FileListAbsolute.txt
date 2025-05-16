@@ -1,0 +1,15 @@
+d:\GitHub\BS.NetCorePatikasi\C#101\WhileForeach\bin\Debug\net8.0\WhileForeach.exe
+D:\GitHub\BS.NetCorePatikasi\C#101\WhileForeach\bin\Debug\net8.0\WhileForeach.deps.json
+D:\GitHub\BS.NetCorePatikasi\C#101\WhileForeach\bin\Debug\net8.0\WhileForeach.runtimeconfig.json
+d:\GitHub\BS.NetCorePatikasi\C#101\WhileForeach\bin\Debug\net8.0\WhileForeach.dll
+d:\GitHub\BS.NetCorePatikasi\C#101\WhileForeach\bin\Debug\net8.0\WhileForeach.pdb
+d:\GitHub\BS.NetCorePatikasi\C#101\WhileForeach\obj\Debug\net8.0\WhileForeach.GeneratedMSBuildEditorConfig.editorconfig
+d:\GitHub\BS.NetCorePatikasi\C#101\WhileForeach\obj\Debug\net8.0\WhileForeach.AssemblyInfoInputs.cache
+d:\GitHub\BS.NetCorePatikasi\C#101\WhileForeach\obj\Debug\net8.0\WhileForeach.AssemblyInfo.cs
+d:\GitHub\BS.NetCorePatikasi\C#101\WhileForeach\obj\Debug\net8.0\WhileForeach.csproj.CoreCompileInputs.cache
+d:\GitHub\BS.NetCorePatikasi\C#101\WhileForeach\obj\Debug\net8.0\WhileForeach.sourcelink.json
+d:\GitHub\BS.NetCorePatikasi\C#101\WhileForeach\obj\Debug\net8.0\WhileForeach.dll
+d:\GitHub\BS.NetCorePatikasi\C#101\WhileForeach\obj\Debug\net8.0\refint\WhileForeach.dll
+d:\GitHub\BS.NetCorePatikasi\C#101\WhileForeach\obj\Debug\net8.0\WhileForeach.pdb
+D:\GitHub\BS.NetCorePatikasi\C#101\WhileForeach\obj\Debug\net8.0\WhileForeach.genruntimeconfig.cache
+D:\GitHub\BS.NetCorePatikasi\C#101\WhileForeach\obj\Debug\net8.0\ref\WhileForeach.dll
