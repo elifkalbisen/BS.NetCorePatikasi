@@ -1,0 +1,15 @@
+d:\GitHub\BS.NetCorePatikasi\C#101\Method\bin\Debug\net8.0\Method.exe
+D:\GitHub\BS.NetCorePatikasi\C#101\Method\bin\Debug\net8.0\Method.deps.json
+D:\GitHub\BS.NetCorePatikasi\C#101\Method\bin\Debug\net8.0\Method.runtimeconfig.json
+d:\GitHub\BS.NetCorePatikasi\C#101\Method\bin\Debug\net8.0\Method.dll
+d:\GitHub\BS.NetCorePatikasi\C#101\Method\bin\Debug\net8.0\Method.pdb
+d:\GitHub\BS.NetCorePatikasi\C#101\Method\obj\Debug\net8.0\Method.GeneratedMSBuildEditorConfig.editorconfig
+d:\GitHub\BS.NetCorePatikasi\C#101\Method\obj\Debug\net8.0\Method.AssemblyInfoInputs.cache
+d:\GitHub\BS.NetCorePatikasi\C#101\Method\obj\Debug\net8.0\Method.AssemblyInfo.cs
+d:\GitHub\BS.NetCorePatikasi\C#101\Method\obj\Debug\net8.0\Method.csproj.CoreCompileInputs.cache
+d:\GitHub\BS.NetCorePatikasi\C#101\Method\obj\Debug\net8.0\Method.sourcelink.json
+d:\GitHub\BS.NetCorePatikasi\C#101\Method\obj\Debug\net8.0\Method.dll
+d:\GitHub\BS.NetCorePatikasi\C#101\Method\obj\Debug\net8.0\refint\Method.dll
+d:\GitHub\BS.NetCorePatikasi\C#101\Method\obj\Debug\net8.0\Method.pdb
+D:\GitHub\BS.NetCorePatikasi\C#101\Method\obj\Debug\net8.0\Method.genruntimeconfig.cache
+D:\GitHub\BS.NetCorePatikasi\C#101\Method\obj\Debug\net8.0\ref\Method.dll
