@@ -1,0 +1,15 @@
+d:\GitHub\BS.NetCorePatikasi\C#101\MethodOverloading\bin\Debug\net8.0\MethodOverloading.exe
+D:\GitHub\BS.NetCorePatikasi\C#101\MethodOverloading\bin\Debug\net8.0\MethodOverloading.deps.json
+D:\GitHub\BS.NetCorePatikasi\C#101\MethodOverloading\bin\Debug\net8.0\MethodOverloading.runtimeconfig.json
+d:\GitHub\BS.NetCorePatikasi\C#101\MethodOverloading\bin\Debug\net8.0\MethodOverloading.dll
+d:\GitHub\BS.NetCorePatikasi\C#101\MethodOverloading\bin\Debug\net8.0\MethodOverloading.pdb
+d:\GitHub\BS.NetCorePatikasi\C#101\MethodOverloading\obj\Debug\net8.0\MethodOverloading.GeneratedMSBuildEditorConfig.editorconfig
+d:\GitHub\BS.NetCorePatikasi\C#101\MethodOverloading\obj\Debug\net8.0\MethodOverloading.AssemblyInfoInputs.cache
+d:\GitHub\BS.NetCorePatikasi\C#101\MethodOverloading\obj\Debug\net8.0\MethodOverloading.AssemblyInfo.cs
+d:\GitHub\BS.NetCorePatikasi\C#101\MethodOverloading\obj\Debug\net8.0\MethodOverloading.csproj.CoreCompileInputs.cache
+d:\GitHub\BS.NetCorePatikasi\C#101\MethodOverloading\obj\Debug\net8.0\MethodOverloading.sourcelink.json
+d:\GitHub\BS.NetCorePatikasi\C#101\MethodOverloading\obj\Debug\net8.0\MethodOverloading.dll
+d:\GitHub\BS.NetCorePatikasi\C#101\MethodOverloading\obj\Debug\net8.0\refint\MethodOverloading.dll
+d:\GitHub\BS.NetCorePatikasi\C#101\MethodOverloading\obj\Debug\net8.0\MethodOverloading.pdb
+D:\GitHub\BS.NetCorePatikasi\C#101\MethodOverloading\obj\Debug\net8.0\MethodOverloading.genruntimeconfig.cache
+D:\GitHub\BS.NetCorePatikasi\C#101\MethodOverloading\obj\Debug\net8.0\ref\MethodOverloading.dll
