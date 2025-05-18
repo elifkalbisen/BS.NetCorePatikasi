@@ -1,0 +1,15 @@
+d:\GitHub\BS.NetCorePatikasi\C#101\Rekürsif-ExtensionMethods\bin\Debug\net8.0\Rekürsif-ExtensionMethods.exe
+D:\GitHub\BS.NetCorePatikasi\C#101\Rekürsif-ExtensionMethods\bin\Debug\net8.0\Rekürsif-ExtensionMethods.deps.json
+D:\GitHub\BS.NetCorePatikasi\C#101\Rekürsif-ExtensionMethods\bin\Debug\net8.0\Rekürsif-ExtensionMethods.runtimeconfig.json
+d:\GitHub\BS.NetCorePatikasi\C#101\Rekürsif-ExtensionMethods\bin\Debug\net8.0\Rekürsif-ExtensionMethods.dll
+d:\GitHub\BS.NetCorePatikasi\C#101\Rekürsif-ExtensionMethods\bin\Debug\net8.0\Rekürsif-ExtensionMethods.pdb
+d:\GitHub\BS.NetCorePatikasi\C#101\Rekürsif-ExtensionMethods\obj\Debug\net8.0\Rekürsif-ExtensionMethods.GeneratedMSBuildEditorConfig.editorconfig
+d:\GitHub\BS.NetCorePatikasi\C#101\Rekürsif-ExtensionMethods\obj\Debug\net8.0\Rekürsif-ExtensionMethods.AssemblyInfoInputs.cache
+d:\GitHub\BS.NetCorePatikasi\C#101\Rekürsif-ExtensionMethods\obj\Debug\net8.0\Rekürsif-ExtensionMethods.AssemblyInfo.cs
+d:\GitHub\BS.NetCorePatikasi\C#101\Rekürsif-ExtensionMethods\obj\Debug\net8.0\Rekürsif-ExtensionMethods.csproj.CoreCompileInputs.cache
+d:\GitHub\BS.NetCorePatikasi\C#101\Rekürsif-ExtensionMethods\obj\Debug\net8.0\Rekürsif-ExtensionMethods.sourcelink.json
+d:\GitHub\BS.NetCorePatikasi\C#101\Rekürsif-ExtensionMethods\obj\Debug\net8.0\Rekürsif-ExtensionMethods.dll
+d:\GitHub\BS.NetCorePatikasi\C#101\Rekürsif-ExtensionMethods\obj\Debug\net8.0\refint\Rekürsif-ExtensionMethods.dll
+d:\GitHub\BS.NetCorePatikasi\C#101\Rekürsif-ExtensionMethods\obj\Debug\net8.0\Rekürsif-ExtensionMethods.pdb
+D:\GitHub\BS.NetCorePatikasi\C#101\Rekürsif-ExtensionMethods\obj\Debug\net8.0\Rekürsif-ExtensionMethods.genruntimeconfig.cache
+D:\GitHub\BS.NetCorePatikasi\C#101\Rekürsif-ExtensionMethods\obj\Debug\net8.0\ref\Rekürsif-ExtensionMethods.dll
