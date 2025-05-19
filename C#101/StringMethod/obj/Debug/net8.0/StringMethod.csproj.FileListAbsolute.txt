@@ -1,0 +1,15 @@
+d:\GitHub\BS.NetCorePatikasi\C#101\StringMethod\bin\Debug\net8.0\StringMethod.exe
+D:\GitHub\BS.NetCorePatikasi\C#101\StringMethod\bin\Debug\net8.0\StringMethod.deps.json
+D:\GitHub\BS.NetCorePatikasi\C#101\StringMethod\bin\Debug\net8.0\StringMethod.runtimeconfig.json
+d:\GitHub\BS.NetCorePatikasi\C#101\StringMethod\bin\Debug\net8.0\StringMethod.dll
+d:\GitHub\BS.NetCorePatikasi\C#101\StringMethod\bin\Debug\net8.0\StringMethod.pdb
+d:\GitHub\BS.NetCorePatikasi\C#101\StringMethod\obj\Debug\net8.0\StringMethod.GeneratedMSBuildEditorConfig.editorconfig
+d:\GitHub\BS.NetCorePatikasi\C#101\StringMethod\obj\Debug\net8.0\StringMethod.AssemblyInfoInputs.cache
+d:\GitHub\BS.NetCorePatikasi\C#101\StringMethod\obj\Debug\net8.0\StringMethod.AssemblyInfo.cs
+d:\GitHub\BS.NetCorePatikasi\C#101\StringMethod\obj\Debug\net8.0\StringMethod.csproj.CoreCompileInputs.cache
+d:\GitHub\BS.NetCorePatikasi\C#101\StringMethod\obj\Debug\net8.0\StringMethod.sourcelink.json
+d:\GitHub\BS.NetCorePatikasi\C#101\StringMethod\obj\Debug\net8.0\StringMethod.dll
+d:\GitHub\BS.NetCorePatikasi\C#101\StringMethod\obj\Debug\net8.0\refint\StringMethod.dll
+d:\GitHub\BS.NetCorePatikasi\C#101\StringMethod\obj\Debug\net8.0\StringMethod.pdb
+D:\GitHub\BS.NetCorePatikasi\C#101\StringMethod\obj\Debug\net8.0\StringMethod.genruntimeconfig.cache
+D:\GitHub\BS.NetCorePatikasi\C#101\StringMethod\obj\Debug\net8.0\ref\StringMethod.dll
