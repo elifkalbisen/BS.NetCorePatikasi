@@ -1,0 +1,15 @@
+d:\GitHub\BS.NetCorePatikasi\C#101\Odev1\bin\Debug\net8.0\Odev1.exe
+D:\GitHub\BS.NetCorePatikasi\C#101\Odev1\bin\Debug\net8.0\Odev1.deps.json
+D:\GitHub\BS.NetCorePatikasi\C#101\Odev1\bin\Debug\net8.0\Odev1.runtimeconfig.json
+d:\GitHub\BS.NetCorePatikasi\C#101\Odev1\bin\Debug\net8.0\Odev1.dll
+d:\GitHub\BS.NetCorePatikasi\C#101\Odev1\bin\Debug\net8.0\Odev1.pdb
+d:\GitHub\BS.NetCorePatikasi\C#101\Odev1\obj\Debug\net8.0\Odev1.GeneratedMSBuildEditorConfig.editorconfig
+d:\GitHub\BS.NetCorePatikasi\C#101\Odev1\obj\Debug\net8.0\Odev1.AssemblyInfoInputs.cache
+d:\GitHub\BS.NetCorePatikasi\C#101\Odev1\obj\Debug\net8.0\Odev1.AssemblyInfo.cs
+d:\GitHub\BS.NetCorePatikasi\C#101\Odev1\obj\Debug\net8.0\Odev1.csproj.CoreCompileInputs.cache
+d:\GitHub\BS.NetCorePatikasi\C#101\Odev1\obj\Debug\net8.0\Odev1.sourcelink.json
+d:\GitHub\BS.NetCorePatikasi\C#101\Odev1\obj\Debug\net8.0\Odev1.dll
+d:\GitHub\BS.NetCorePatikasi\C#101\Odev1\obj\Debug\net8.0\refint\Odev1.dll
+d:\GitHub\BS.NetCorePatikasi\C#101\Odev1\obj\Debug\net8.0\Odev1.pdb
+D:\GitHub\BS.NetCorePatikasi\C#101\Odev1\obj\Debug\net8.0\Odev1.genruntimeconfig.cache
+D:\GitHub\BS.NetCorePatikasi\C#101\Odev1\obj\Debug\net8.0\ref\Odev1.dll
