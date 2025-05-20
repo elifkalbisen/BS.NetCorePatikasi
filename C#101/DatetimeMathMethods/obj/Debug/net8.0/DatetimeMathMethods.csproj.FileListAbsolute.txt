@@ -1,0 +1,15 @@
+d:\GitHub\BS.NetCorePatikasi\C#101\DatetimeMathMethods\bin\Debug\net8.0\DatetimeMathMethods.exe
+D:\GitHub\BS.NetCorePatikasi\C#101\DatetimeMathMethods\bin\Debug\net8.0\DatetimeMathMethods.deps.json
+D:\GitHub\BS.NetCorePatikasi\C#101\DatetimeMathMethods\bin\Debug\net8.0\DatetimeMathMethods.runtimeconfig.json
+d:\GitHub\BS.NetCorePatikasi\C#101\DatetimeMathMethods\bin\Debug\net8.0\DatetimeMathMethods.dll
+d:\GitHub\BS.NetCorePatikasi\C#101\DatetimeMathMethods\bin\Debug\net8.0\DatetimeMathMethods.pdb
+d:\GitHub\BS.NetCorePatikasi\C#101\DatetimeMathMethods\obj\Debug\net8.0\DatetimeMathMethods.GeneratedMSBuildEditorConfig.editorconfig
+d:\GitHub\BS.NetCorePatikasi\C#101\DatetimeMathMethods\obj\Debug\net8.0\DatetimeMathMethods.AssemblyInfoInputs.cache
+d:\GitHub\BS.NetCorePatikasi\C#101\DatetimeMathMethods\obj\Debug\net8.0\DatetimeMathMethods.AssemblyInfo.cs
+d:\GitHub\BS.NetCorePatikasi\C#101\DatetimeMathMethods\obj\Debug\net8.0\DatetimeMathMethods.csproj.CoreCompileInputs.cache
+d:\GitHub\BS.NetCorePatikasi\C#101\DatetimeMathMethods\obj\Debug\net8.0\DatetimeMathMethods.sourcelink.json
+d:\GitHub\BS.NetCorePatikasi\C#101\DatetimeMathMethods\obj\Debug\net8.0\DatetimeMathMethods.dll
+d:\GitHub\BS.NetCorePatikasi\C#101\DatetimeMathMethods\obj\Debug\net8.0\refint\DatetimeMathMethods.dll
+d:\GitHub\BS.NetCorePatikasi\C#101\DatetimeMathMethods\obj\Debug\net8.0\DatetimeMathMethods.pdb
+D:\GitHub\BS.NetCorePatikasi\C#101\DatetimeMathMethods\obj\Debug\net8.0\DatetimeMathMethods.genruntimeconfig.cache
+D:\GitHub\BS.NetCorePatikasi\C#101\DatetimeMathMethods\obj\Debug\net8.0\ref\DatetimeMathMethods.dll
