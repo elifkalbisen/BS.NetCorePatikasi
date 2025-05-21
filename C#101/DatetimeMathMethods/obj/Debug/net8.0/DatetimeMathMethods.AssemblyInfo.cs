@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("DatetimeMathMethods")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+515a763442c3fad50fdf1567714c2cc4c95f06d8")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a75d1abaf7ec97c097a235f1214e3672ab76c47e")]
 [assembly: System.Reflection.AssemblyProductAttribute("DatetimeMathMethods")]
 [assembly: System.Reflection.AssemblyTitleAttribute("DatetimeMathMethods")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
