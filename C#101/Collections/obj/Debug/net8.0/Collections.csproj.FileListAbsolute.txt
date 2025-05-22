@@ -1,0 +1,15 @@
+d:\GitHub\BS.NetCorePatikasi\C#101\Collections\bin\Debug\net8.0\Collections.exe
+D:\GitHub\BS.NetCorePatikasi\C#101\Collections\bin\Debug\net8.0\Collections.deps.json
+D:\GitHub\BS.NetCorePatikasi\C#101\Collections\bin\Debug\net8.0\Collections.runtimeconfig.json
+d:\GitHub\BS.NetCorePatikasi\C#101\Collections\bin\Debug\net8.0\Collections.dll
+d:\GitHub\BS.NetCorePatikasi\C#101\Collections\bin\Debug\net8.0\Collections.pdb
+d:\GitHub\BS.NetCorePatikasi\C#101\Collections\obj\Debug\net8.0\Collections.GeneratedMSBuildEditorConfig.editorconfig
+d:\GitHub\BS.NetCorePatikasi\C#101\Collections\obj\Debug\net8.0\Collections.AssemblyInfoInputs.cache
+d:\GitHub\BS.NetCorePatikasi\C#101\Collections\obj\Debug\net8.0\Collections.AssemblyInfo.cs
+d:\GitHub\BS.NetCorePatikasi\C#101\Collections\obj\Debug\net8.0\Collections.csproj.CoreCompileInputs.cache
+d:\GitHub\BS.NetCorePatikasi\C#101\Collections\obj\Debug\net8.0\Collections.sourcelink.json
+d:\GitHub\BS.NetCorePatikasi\C#101\Collections\obj\Debug\net8.0\Collections.dll
+d:\GitHub\BS.NetCorePatikasi\C#101\Collections\obj\Debug\net8.0\refint\Collections.dll
+d:\GitHub\BS.NetCorePatikasi\C#101\Collections\obj\Debug\net8.0\Collections.pdb
+D:\GitHub\BS.NetCorePatikasi\C#101\Collections\obj\Debug\net8.0\Collections.genruntimeconfig.cache
+D:\GitHub\BS.NetCorePatikasi\C#101\Collections\obj\Debug\net8.0\ref\Collections.dll
