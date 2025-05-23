@@ -15,6 +15,11 @@ class Program
 
         ogrenci.SinifAtla();
         ogrenci.OgrenciBilgileriniGetir();
+        Ogrenci ogrenci1 = new Ogrenci("Ali", "Demir", 123, 1);
+        ogrenci1.OgrenciBilgileriniGetir();
+        ogrenci1.SinifDusur();
+        ogrenci1.SinifDusur();
+        ogrenci1.OgrenciBilgileriniGetir();
     }
 }
 
@@ -32,7 +37,21 @@ class Ogrenci
     }
     public string Soyisim { get => soyisim; set => soyisim = value; }
     public int OgrenciNo { get => ogrenciNo; set => ogrenciNo = value; }
-    public int Sinif { get => sinif; set => sinif = value; }
+    public int Sinif
+    {
+        get => sinif;
+        set
+        {
+            if (value < 1)
+            {
+                Console.WriteLine("Sınıf 1'den küçük olamaz.");
+                sinif = 1;
+                
+            }
+            else
+                sinif = value;
+        }
+    }
 
     public Ogrenci(string isim, string soyisim, int ogrenciNo, int sinif)
     {
@@ -53,12 +72,11 @@ class Ogrenci
     }
     public void SinifAtla()
     {
-        Sinif++;
-        Console.WriteLine("Öğrenci sınıf atladı. Yeni sınıf: {0}", Sinif);
+        this.Sinif = this.Sinif + 1;
+        //Sinif++;
     }
     public void SinifDusur()
     {
         Sinif--;
-        Console.WriteLine("Öğrenci sınıf düştü. Yeni sınıf: {0}", Sinif);
     }
 }
