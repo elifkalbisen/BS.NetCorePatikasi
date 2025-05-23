@@ -1,0 +1,15 @@
+d:\GitHub\BS.NetCorePatikasi\C#101\InstanceFieldProperty\bin\Debug\net8.0\InstanceFieldProperty.exe
+D:\GitHub\BS.NetCorePatikasi\C#101\InstanceFieldProperty\bin\Debug\net8.0\InstanceFieldProperty.deps.json
+D:\GitHub\BS.NetCorePatikasi\C#101\InstanceFieldProperty\bin\Debug\net8.0\InstanceFieldProperty.runtimeconfig.json
+d:\GitHub\BS.NetCorePatikasi\C#101\InstanceFieldProperty\bin\Debug\net8.0\InstanceFieldProperty.dll
+d:\GitHub\BS.NetCorePatikasi\C#101\InstanceFieldProperty\bin\Debug\net8.0\InstanceFieldProperty.pdb
+d:\GitHub\BS.NetCorePatikasi\C#101\InstanceFieldProperty\obj\Debug\net8.0\InstanceFieldProperty.GeneratedMSBuildEditorConfig.editorconfig
+d:\GitHub\BS.NetCorePatikasi\C#101\InstanceFieldProperty\obj\Debug\net8.0\InstanceFieldProperty.AssemblyInfoInputs.cache
+d:\GitHub\BS.NetCorePatikasi\C#101\InstanceFieldProperty\obj\Debug\net8.0\InstanceFieldProperty.AssemblyInfo.cs
+d:\GitHub\BS.NetCorePatikasi\C#101\InstanceFieldProperty\obj\Debug\net8.0\InstanceFieldProperty.csproj.CoreCompileInputs.cache
+d:\GitHub\BS.NetCorePatikasi\C#101\InstanceFieldProperty\obj\Debug\net8.0\InstanceFieldProperty.sourcelink.json
+d:\GitHub\BS.NetCorePatikasi\C#101\InstanceFieldProperty\obj\Debug\net8.0\InstanceFieldProperty.dll
+d:\GitHub\BS.NetCorePatikasi\C#101\InstanceFieldProperty\obj\Debug\net8.0\refint\InstanceFieldProperty.dll
+d:\GitHub\BS.NetCorePatikasi\C#101\InstanceFieldProperty\obj\Debug\net8.0\InstanceFieldProperty.pdb
+D:\GitHub\BS.NetCorePatikasi\C#101\InstanceFieldProperty\obj\Debug\net8.0\InstanceFieldProperty.genruntimeconfig.cache
+D:\GitHub\BS.NetCorePatikasi\C#101\InstanceFieldProperty\obj\Debug\net8.0\ref\InstanceFieldProperty.dll
