@@ -1,0 +1,15 @@
+d:\GitHub\BS.NetCorePatikasi\C#101\Odev2\Koleksiyonlar-Soru-3\bin\Debug\net8.0\Koleksiyonlar-Soru-3.exe
+D:\GitHub\BS.NetCorePatikasi\C#101\Odev2\Koleksiyonlar-Soru-3\bin\Debug\net8.0\Koleksiyonlar-Soru-3.deps.json
+D:\GitHub\BS.NetCorePatikasi\C#101\Odev2\Koleksiyonlar-Soru-3\bin\Debug\net8.0\Koleksiyonlar-Soru-3.runtimeconfig.json
+d:\GitHub\BS.NetCorePatikasi\C#101\Odev2\Koleksiyonlar-Soru-3\bin\Debug\net8.0\Koleksiyonlar-Soru-3.dll
+d:\GitHub\BS.NetCorePatikasi\C#101\Odev2\Koleksiyonlar-Soru-3\bin\Debug\net8.0\Koleksiyonlar-Soru-3.pdb
+d:\GitHub\BS.NetCorePatikasi\C#101\Odev2\Koleksiyonlar-Soru-3\obj\Debug\net8.0\Koleksiyonlar-Soru-3.GeneratedMSBuildEditorConfig.editorconfig
+d:\GitHub\BS.NetCorePatikasi\C#101\Odev2\Koleksiyonlar-Soru-3\obj\Debug\net8.0\Koleksiyonlar-Soru-3.AssemblyInfoInputs.cache
+d:\GitHub\BS.NetCorePatikasi\C#101\Odev2\Koleksiyonlar-Soru-3\obj\Debug\net8.0\Koleksiyonlar-Soru-3.AssemblyInfo.cs
+d:\GitHub\BS.NetCorePatikasi\C#101\Odev2\Koleksiyonlar-Soru-3\obj\Debug\net8.0\Koleksiyonlar-Soru-3.csproj.CoreCompileInputs.cache
+d:\GitHub\BS.NetCorePatikasi\C#101\Odev2\Koleksiyonlar-Soru-3\obj\Debug\net8.0\Koleksiyonlar-Soru-3.sourcelink.json
+d:\GitHub\BS.NetCorePatikasi\C#101\Odev2\Koleksiyonlar-Soru-3\obj\Debug\net8.0\Koleksiyonlar-Soru-3.dll
+d:\GitHub\BS.NetCorePatikasi\C#101\Odev2\Koleksiyonlar-Soru-3\obj\Debug\net8.0\refint\Koleksiyonlar-Soru-3.dll
+d:\GitHub\BS.NetCorePatikasi\C#101\Odev2\Koleksiyonlar-Soru-3\obj\Debug\net8.0\Koleksiyonlar-Soru-3.pdb
+D:\GitHub\BS.NetCorePatikasi\C#101\Odev2\Koleksiyonlar-Soru-3\obj\Debug\net8.0\Koleksiyonlar-Soru-3.genruntimeconfig.cache
+D:\GitHub\BS.NetCorePatikasi\C#101\Odev2\Koleksiyonlar-Soru-3\obj\Debug\net8.0\ref\Koleksiyonlar-Soru-3.dll

@@ -1,23 +1,52 @@
 ﻿using System.Collections;
 
+
 ArrayList asalListesi = new ArrayList();
 ArrayList asalOlmayanListesi = new ArrayList();
 Console.WriteLine("Pozitif bir tam sayı giriniz:");
-for (int i = 0; i < 20; i++)
+int sayiCount = 0;
+while (sayiCount < 20)
 {
-    int sayi = Convert.ToInt32(Console.ReadLine());
-    if (AsalMi(sayi))
-        asalListesi.Add(sayi);
-    else
-        asalOlmayanListesi.Add(sayi);
-}
-Console.WriteLine("Asal sayılar:");
-foreach (int item in asalListesi)
-    Console.WriteLine(item);
+    try
+    {
+        int sayi = int.Parse(Console.ReadLine());
 
-Console.WriteLine("Asal olmayan sayılar:");
-foreach (int item in asalOlmayanListesi)
-    Console.WriteLine(item);
+        if (sayi <= 0)
+        {
+            Console.WriteLine("Pozitif bir tam sayı giriniz.");
+            continue;
+        }
+        sayiCount++;
+
+        if (AsalMi(sayi))
+            asalListesi.Add(sayi);
+        else
+            asalOlmayanListesi.Add(sayi);
+    }
+    catch
+    {
+        Console.WriteLine("Lütfen geçerli bir sayı giriniz.");
+    }
+}
+
+asalListesi.Sort();
+asalListesi.Reverse();
+
+asalOlmayanListesi.Sort();
+asalOlmayanListesi.Reverse();
+
+Console.WriteLine("Asal Sayılar:");
+foreach (int sayi in asalListesi)
+    Console.Write(sayi + " ");
+Console.WriteLine();
+
+Console.WriteLine("Asal Olmayan Sayılar:");
+foreach (int sayi in asalOlmayanListesi)
+    Console.Write(sayi + " ");
+Console.WriteLine();
+
+Console.WriteLine(OrtalamaHesapla(asalListesi));
+Console.WriteLine(OrtalamaHesapla(asalOlmayanListesi));
 
 static bool AsalMi(int sayi)
 {
@@ -30,3 +59,13 @@ static bool AsalMi(int sayi)
     }
     return true;
 }
+
+static double OrtalamaHesapla(ArrayList liste)
+{
+    int toplam = 0;
+    foreach (int sayi in liste)
+        toplam += sayi;
+
+    return liste.Count > 0 ? (double)toplam / liste.Count : 0;
+}
+
