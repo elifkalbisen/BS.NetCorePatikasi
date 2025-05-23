@@ -1,0 +1,15 @@
+d:\GitHub\BS.NetCorePatikasi\C#101\Encapsulation\bin\Debug\net8.0\Encapsulation.exe
+D:\GitHub\BS.NetCorePatikasi\C#101\Encapsulation\bin\Debug\net8.0\Encapsulation.deps.json
+D:\GitHub\BS.NetCorePatikasi\C#101\Encapsulation\bin\Debug\net8.0\Encapsulation.runtimeconfig.json
+d:\GitHub\BS.NetCorePatikasi\C#101\Encapsulation\bin\Debug\net8.0\Encapsulation.dll
+d:\GitHub\BS.NetCorePatikasi\C#101\Encapsulation\bin\Debug\net8.0\Encapsulation.pdb
+d:\GitHub\BS.NetCorePatikasi\C#101\Encapsulation\obj\Debug\net8.0\Encapsulation.GeneratedMSBuildEditorConfig.editorconfig
+d:\GitHub\BS.NetCorePatikasi\C#101\Encapsulation\obj\Debug\net8.0\Encapsulation.AssemblyInfoInputs.cache
+d:\GitHub\BS.NetCorePatikasi\C#101\Encapsulation\obj\Debug\net8.0\Encapsulation.AssemblyInfo.cs
+d:\GitHub\BS.NetCorePatikasi\C#101\Encapsulation\obj\Debug\net8.0\Encapsulation.csproj.CoreCompileInputs.cache
+d:\GitHub\BS.NetCorePatikasi\C#101\Encapsulation\obj\Debug\net8.0\Encapsulation.sourcelink.json
+d:\GitHub\BS.NetCorePatikasi\C#101\Encapsulation\obj\Debug\net8.0\Encapsulation.dll
+d:\GitHub\BS.NetCorePatikasi\C#101\Encapsulation\obj\Debug\net8.0\refint\Encapsulation.dll
+d:\GitHub\BS.NetCorePatikasi\C#101\Encapsulation\obj\Debug\net8.0\Encapsulation.pdb
+D:\GitHub\BS.NetCorePatikasi\C#101\Encapsulation\obj\Debug\net8.0\Encapsulation.genruntimeconfig.cache
+D:\GitHub\BS.NetCorePatikasi\C#101\Encapsulation\obj\Debug\net8.0\ref\Encapsulation.dll
