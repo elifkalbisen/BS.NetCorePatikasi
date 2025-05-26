@@ -1,0 +1,15 @@
+d:\GitHub\BS.NetCorePatikasi\C#101\Inheritance\bin\Debug\net8.0\Inheritance.exe
+D:\GitHub\BS.NetCorePatikasi\C#101\Inheritance\bin\Debug\net8.0\Inheritance.deps.json
+D:\GitHub\BS.NetCorePatikasi\C#101\Inheritance\bin\Debug\net8.0\Inheritance.runtimeconfig.json
+d:\GitHub\BS.NetCorePatikasi\C#101\Inheritance\bin\Debug\net8.0\Inheritance.dll
+d:\GitHub\BS.NetCorePatikasi\C#101\Inheritance\bin\Debug\net8.0\Inheritance.pdb
+d:\GitHub\BS.NetCorePatikasi\C#101\Inheritance\obj\Debug\net8.0\Inheritance.GeneratedMSBuildEditorConfig.editorconfig
+d:\GitHub\BS.NetCorePatikasi\C#101\Inheritance\obj\Debug\net8.0\Inheritance.AssemblyInfoInputs.cache
+d:\GitHub\BS.NetCorePatikasi\C#101\Inheritance\obj\Debug\net8.0\Inheritance.AssemblyInfo.cs
+d:\GitHub\BS.NetCorePatikasi\C#101\Inheritance\obj\Debug\net8.0\Inheritance.csproj.CoreCompileInputs.cache
+d:\GitHub\BS.NetCorePatikasi\C#101\Inheritance\obj\Debug\net8.0\Inheritance.sourcelink.json
+d:\GitHub\BS.NetCorePatikasi\C#101\Inheritance\obj\Debug\net8.0\Inheritance.dll
+d:\GitHub\BS.NetCorePatikasi\C#101\Inheritance\obj\Debug\net8.0\refint\Inheritance.dll
+d:\GitHub\BS.NetCorePatikasi\C#101\Inheritance\obj\Debug\net8.0\Inheritance.pdb
+D:\GitHub\BS.NetCorePatikasi\C#101\Inheritance\obj\Debug\net8.0\Inheritance.genruntimeconfig.cache
+D:\GitHub\BS.NetCorePatikasi\C#101\Inheritance\obj\Debug\net8.0\ref\Inheritance.dll
