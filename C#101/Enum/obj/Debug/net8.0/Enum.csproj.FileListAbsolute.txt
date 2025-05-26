@@ -1,0 +1,15 @@
+d:\GitHub\BS.NetCorePatikasi\C#101\Enum\bin\Debug\net8.0\Enum.exe
+D:\GitHub\BS.NetCorePatikasi\C#101\Enum\bin\Debug\net8.0\Enum.deps.json
+D:\GitHub\BS.NetCorePatikasi\C#101\Enum\bin\Debug\net8.0\Enum.runtimeconfig.json
+d:\GitHub\BS.NetCorePatikasi\C#101\Enum\bin\Debug\net8.0\Enum.dll
+d:\GitHub\BS.NetCorePatikasi\C#101\Enum\bin\Debug\net8.0\Enum.pdb
+d:\GitHub\BS.NetCorePatikasi\C#101\Enum\obj\Debug\net8.0\Enum.GeneratedMSBuildEditorConfig.editorconfig
+d:\GitHub\BS.NetCorePatikasi\C#101\Enum\obj\Debug\net8.0\Enum.AssemblyInfoInputs.cache
+d:\GitHub\BS.NetCorePatikasi\C#101\Enum\obj\Debug\net8.0\Enum.AssemblyInfo.cs
+d:\GitHub\BS.NetCorePatikasi\C#101\Enum\obj\Debug\net8.0\Enum.csproj.CoreCompileInputs.cache
+d:\GitHub\BS.NetCorePatikasi\C#101\Enum\obj\Debug\net8.0\Enum.sourcelink.json
+d:\GitHub\BS.NetCorePatikasi\C#101\Enum\obj\Debug\net8.0\Enum.dll
+d:\GitHub\BS.NetCorePatikasi\C#101\Enum\obj\Debug\net8.0\refint\Enum.dll
+d:\GitHub\BS.NetCorePatikasi\C#101\Enum\obj\Debug\net8.0\Enum.pdb
+D:\GitHub\BS.NetCorePatikasi\C#101\Enum\obj\Debug\net8.0\Enum.genruntimeconfig.cache
+D:\GitHub\BS.NetCorePatikasi\C#101\Enum\obj\Debug\net8.0\ref\Enum.dll
