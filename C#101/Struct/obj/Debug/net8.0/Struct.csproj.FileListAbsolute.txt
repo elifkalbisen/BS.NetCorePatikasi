@@ -1,0 +1,15 @@
+d:\GitHub\BS.NetCorePatikasi\C#101\Struct\bin\Debug\net8.0\Struct.exe
+D:\GitHub\BS.NetCorePatikasi\C#101\Struct\bin\Debug\net8.0\Struct.deps.json
+D:\GitHub\BS.NetCorePatikasi\C#101\Struct\bin\Debug\net8.0\Struct.runtimeconfig.json
+d:\GitHub\BS.NetCorePatikasi\C#101\Struct\bin\Debug\net8.0\Struct.dll
+d:\GitHub\BS.NetCorePatikasi\C#101\Struct\bin\Debug\net8.0\Struct.pdb
+d:\GitHub\BS.NetCorePatikasi\C#101\Struct\obj\Debug\net8.0\Struct.GeneratedMSBuildEditorConfig.editorconfig
+d:\GitHub\BS.NetCorePatikasi\C#101\Struct\obj\Debug\net8.0\Struct.AssemblyInfoInputs.cache
+d:\GitHub\BS.NetCorePatikasi\C#101\Struct\obj\Debug\net8.0\Struct.AssemblyInfo.cs
+d:\GitHub\BS.NetCorePatikasi\C#101\Struct\obj\Debug\net8.0\Struct.csproj.CoreCompileInputs.cache
+d:\GitHub\BS.NetCorePatikasi\C#101\Struct\obj\Debug\net8.0\Struct.sourcelink.json
+d:\GitHub\BS.NetCorePatikasi\C#101\Struct\obj\Debug\net8.0\Struct.dll
+d:\GitHub\BS.NetCorePatikasi\C#101\Struct\obj\Debug\net8.0\refint\Struct.dll
+d:\GitHub\BS.NetCorePatikasi\C#101\Struct\obj\Debug\net8.0\Struct.pdb
+D:\GitHub\BS.NetCorePatikasi\C#101\Struct\obj\Debug\net8.0\Struct.genruntimeconfig.cache
+D:\GitHub\BS.NetCorePatikasi\C#101\Struct\obj\Debug\net8.0\ref\Struct.dll
