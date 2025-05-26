@@ -1,0 +1,15 @@
+d:\GitHub\BS.NetCorePatikasi\C#101\AbstractClass\bin\Debug\net8.0\AbstractClass.exe
+D:\GitHub\BS.NetCorePatikasi\C#101\AbstractClass\bin\Debug\net8.0\AbstractClass.deps.json
+D:\GitHub\BS.NetCorePatikasi\C#101\AbstractClass\bin\Debug\net8.0\AbstractClass.runtimeconfig.json
+d:\GitHub\BS.NetCorePatikasi\C#101\AbstractClass\bin\Debug\net8.0\AbstractClass.dll
+d:\GitHub\BS.NetCorePatikasi\C#101\AbstractClass\bin\Debug\net8.0\AbstractClass.pdb
+d:\GitHub\BS.NetCorePatikasi\C#101\AbstractClass\obj\Debug\net8.0\AbstractClass.GeneratedMSBuildEditorConfig.editorconfig
+d:\GitHub\BS.NetCorePatikasi\C#101\AbstractClass\obj\Debug\net8.0\AbstractClass.AssemblyInfoInputs.cache
+d:\GitHub\BS.NetCorePatikasi\C#101\AbstractClass\obj\Debug\net8.0\AbstractClass.AssemblyInfo.cs
+d:\GitHub\BS.NetCorePatikasi\C#101\AbstractClass\obj\Debug\net8.0\AbstractClass.csproj.CoreCompileInputs.cache
+d:\GitHub\BS.NetCorePatikasi\C#101\AbstractClass\obj\Debug\net8.0\AbstractClass.sourcelink.json
+d:\GitHub\BS.NetCorePatikasi\C#101\AbstractClass\obj\Debug\net8.0\AbstractClass.dll
+d:\GitHub\BS.NetCorePatikasi\C#101\AbstractClass\obj\Debug\net8.0\refint\AbstractClass.dll
+d:\GitHub\BS.NetCorePatikasi\C#101\AbstractClass\obj\Debug\net8.0\AbstractClass.pdb
+D:\GitHub\BS.NetCorePatikasi\C#101\AbstractClass\obj\Debug\net8.0\AbstractClass.genruntimeconfig.cache
+D:\GitHub\BS.NetCorePatikasi\C#101\AbstractClass\obj\Debug\net8.0\ref\AbstractClass.dll

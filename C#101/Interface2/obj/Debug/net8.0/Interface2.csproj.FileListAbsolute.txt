@@ -1,0 +1,15 @@
+D:\GitHub\BS.NetCorePatikasi\C#101\Interface2\bin\Debug\net8.0\Interface2.exe
+D:\GitHub\BS.NetCorePatikasi\C#101\Interface2\bin\Debug\net8.0\Interface2.deps.json
+D:\GitHub\BS.NetCorePatikasi\C#101\Interface2\bin\Debug\net8.0\Interface2.runtimeconfig.json
+D:\GitHub\BS.NetCorePatikasi\C#101\Interface2\bin\Debug\net8.0\Interface2.dll
+D:\GitHub\BS.NetCorePatikasi\C#101\Interface2\bin\Debug\net8.0\Interface2.pdb
+D:\GitHub\BS.NetCorePatikasi\C#101\Interface2\obj\Debug\net8.0\Interface2.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\BS.NetCorePatikasi\C#101\Interface2\obj\Debug\net8.0\Interface2.AssemblyInfoInputs.cache
+D:\GitHub\BS.NetCorePatikasi\C#101\Interface2\obj\Debug\net8.0\Interface2.AssemblyInfo.cs
+D:\GitHub\BS.NetCorePatikasi\C#101\Interface2\obj\Debug\net8.0\Interface2.csproj.CoreCompileInputs.cache
+D:\GitHub\BS.NetCorePatikasi\C#101\Interface2\obj\Debug\net8.0\Interface2.sourcelink.json
+D:\GitHub\BS.NetCorePatikasi\C#101\Interface2\obj\Debug\net8.0\Interface2.dll
+D:\GitHub\BS.NetCorePatikasi\C#101\Interface2\obj\Debug\net8.0\refint\Interface2.dll
+D:\GitHub\BS.NetCorePatikasi\C#101\Interface2\obj\Debug\net8.0\Interface2.pdb
+D:\GitHub\BS.NetCorePatikasi\C#101\Interface2\obj\Debug\net8.0\Interface2.genruntimeconfig.cache
+D:\GitHub\BS.NetCorePatikasi\C#101\Interface2\obj\Debug\net8.0\ref\Interface2.dll
