@@ -1,0 +1,15 @@
+d:\GitHub\BS.NetCorePatikasi\C#101\PhoneBook\bin\Debug\net8.0\PhoneBook.exe
+D:\GitHub\BS.NetCorePatikasi\C#101\PhoneBook\bin\Debug\net8.0\PhoneBook.deps.json
+D:\GitHub\BS.NetCorePatikasi\C#101\PhoneBook\bin\Debug\net8.0\PhoneBook.runtimeconfig.json
+d:\GitHub\BS.NetCorePatikasi\C#101\PhoneBook\bin\Debug\net8.0\PhoneBook.dll
+d:\GitHub\BS.NetCorePatikasi\C#101\PhoneBook\bin\Debug\net8.0\PhoneBook.pdb
+d:\GitHub\BS.NetCorePatikasi\C#101\PhoneBook\obj\Debug\net8.0\PhoneBook.GeneratedMSBuildEditorConfig.editorconfig
+d:\GitHub\BS.NetCorePatikasi\C#101\PhoneBook\obj\Debug\net8.0\PhoneBook.AssemblyInfoInputs.cache
+d:\GitHub\BS.NetCorePatikasi\C#101\PhoneBook\obj\Debug\net8.0\PhoneBook.AssemblyInfo.cs
+d:\GitHub\BS.NetCorePatikasi\C#101\PhoneBook\obj\Debug\net8.0\PhoneBook.csproj.CoreCompileInputs.cache
+d:\GitHub\BS.NetCorePatikasi\C#101\PhoneBook\obj\Debug\net8.0\PhoneBook.sourcelink.json
+d:\GitHub\BS.NetCorePatikasi\C#101\PhoneBook\obj\Debug\net8.0\PhoneBook.dll
+d:\GitHub\BS.NetCorePatikasi\C#101\PhoneBook\obj\Debug\net8.0\refint\PhoneBook.dll
+d:\GitHub\BS.NetCorePatikasi\C#101\PhoneBook\obj\Debug\net8.0\PhoneBook.pdb
+D:\GitHub\BS.NetCorePatikasi\C#101\PhoneBook\obj\Debug\net8.0\PhoneBook.genruntimeconfig.cache
+D:\GitHub\BS.NetCorePatikasi\C#101\PhoneBook\obj\Debug\net8.0\ref\PhoneBook.dll
