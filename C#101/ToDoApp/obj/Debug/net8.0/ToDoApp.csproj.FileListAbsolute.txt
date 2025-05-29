@@ -1,0 +1,15 @@
+D:\GitHub\BS.NetCorePatikasi\C#101\ToDoApp\bin\Debug\net8.0\ToDoApp.exe
+D:\GitHub\BS.NetCorePatikasi\C#101\ToDoApp\bin\Debug\net8.0\ToDoApp.deps.json
+D:\GitHub\BS.NetCorePatikasi\C#101\ToDoApp\bin\Debug\net8.0\ToDoApp.runtimeconfig.json
+D:\GitHub\BS.NetCorePatikasi\C#101\ToDoApp\bin\Debug\net8.0\ToDoApp.dll
+D:\GitHub\BS.NetCorePatikasi\C#101\ToDoApp\bin\Debug\net8.0\ToDoApp.pdb
+D:\GitHub\BS.NetCorePatikasi\C#101\ToDoApp\obj\Debug\net8.0\ToDoApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\BS.NetCorePatikasi\C#101\ToDoApp\obj\Debug\net8.0\ToDoApp.AssemblyInfoInputs.cache
+D:\GitHub\BS.NetCorePatikasi\C#101\ToDoApp\obj\Debug\net8.0\ToDoApp.AssemblyInfo.cs
+D:\GitHub\BS.NetCorePatikasi\C#101\ToDoApp\obj\Debug\net8.0\ToDoApp.csproj.CoreCompileInputs.cache
+D:\GitHub\BS.NetCorePatikasi\C#101\ToDoApp\obj\Debug\net8.0\ToDoApp.sourcelink.json
+D:\GitHub\BS.NetCorePatikasi\C#101\ToDoApp\obj\Debug\net8.0\ToDoApp.dll
+D:\GitHub\BS.NetCorePatikasi\C#101\ToDoApp\obj\Debug\net8.0\refint\ToDoApp.dll
+D:\GitHub\BS.NetCorePatikasi\C#101\ToDoApp\obj\Debug\net8.0\ToDoApp.pdb
+D:\GitHub\BS.NetCorePatikasi\C#101\ToDoApp\obj\Debug\net8.0\ToDoApp.genruntimeconfig.cache
+D:\GitHub\BS.NetCorePatikasi\C#101\ToDoApp\obj\Debug\net8.0\ref\ToDoApp.dll
